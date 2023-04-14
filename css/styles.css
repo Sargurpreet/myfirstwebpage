@@ -353,8 +353,8 @@ button:focus,
 .button:focus {
   cursor: pointer;
   opacity: 0.8;
-  background-color: #333333;
-  color: #FFFFFF;
+  background-color: white;
+  color: #080808;
   box-shadow: 0 0 10px var(--darkerBlack);
   opacity: 0.8;
 }
